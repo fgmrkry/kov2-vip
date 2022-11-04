@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxrayv2:vip
+FROM xyouxiu6/koyebvxrayv2:svip
